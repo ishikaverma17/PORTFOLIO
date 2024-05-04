@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "role": "Backend Developer Intern",
+      "organisation": "The Bengal Studio",
+      "startDate": "Sept, 2023",
+      "endDate": "Nov, 2023",
+      "location": "Kolkata India",
+      "experiences": [
+        "I excelled in Backend development",
+        "crafting efficient server-side solutions for diverse projects"
+      ],
+      "imageSrc": "company/bengalpic.jpg"
+    
+    },
+    {
+      "id": 2,
+      "role": "Software Developer Intern ",
+      "organisation": "Vas Ventures Pvt.Ltd",
+      "startDate": "Aug, 2023",
+      "endDate": "Sep, 2023",
+      "location": "Noida",
+      "experiences": [
+        " I interned as a Python software developer ",
+        "actively contributing to coding projects and collaborating with a dynamic team to solve challenges and enhance software functionalities"
+      ],
+      "imageSrc": "company/vaspic.jpg"
+      
+      
+    }
+  ]
