@@ -14,10 +14,7 @@ const Experience = () => {
                 <div key={data.id} className='ex-items text-center my-5'
                 data-aos="zoom-in"
                 data-aos-duration="1000">
-                  <div className='left'>
-                    <img src={`/assets/${data.imageSrc}`} alt='' />
-                  </div>
-                  <div className='right'>
+                  <div className=''>
                     <h2>{data.role}</h2>
                     <h4>
                     <span style={{ color:'#FF8080'}}>

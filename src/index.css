@@ -108,8 +108,8 @@ a {
 }
 
 .ex-items {
-  display: flex;
-  justify-content: space-between;
+  /* display: flex; */
+  /* justify-content: space-between; */
   align-items: center;
   text-align: center;
   background-color:rgb(26, 5, 46);
